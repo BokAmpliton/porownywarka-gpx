@@ -1,0 +1,7 @@
+streamlit
+gpxpy
+folium
+streamlit-folium
+numpy
+pandas
+xlsxwriter
